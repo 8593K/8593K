@@ -1,8 +1,8 @@
 <img src=https://www.codewars.com/users/K401M/badges/large>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=8593K&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=8593k&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8593K&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8593k&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
 <!--
 **8593K/8593K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
