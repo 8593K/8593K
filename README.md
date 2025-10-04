@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=spring,ktor,flask,hibernate,sqlite,mysql,gradle,maven,npm,git,nginx" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,vscode,visualstudio,eclipse,unity,vim,sublime,processing,latex" />
+  <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,vscode,visualstudio,androidstudio,eclipse,unity,vim,sublime,processing,latex" />
   <br/>
   <br/>
 <!--   <img src="https://komarev.com/ghpvc/?username=8593k&color=blue" /> -->
