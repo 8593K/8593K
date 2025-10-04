@@ -4,18 +4,20 @@
   <img src="https://www.codewars.com/users/K401M/badges/large" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,scala,java,python,lua,javascript,html,css,react,nodejs,md" />
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=spring,ktor,flask,hibernate,sqlite,mysql,gradle,maven,npm,git,nginx" />
-  <br/>
-  <br/>
+</p>
+
+  # Language Skills
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,scala,java,python,lua,javascript,html,css,react,nodejs,md,bash" />
+  
+  # Framework Skills
+  <img src="https://skillicons.dev/icons?i=spring,ktor,flask,postman,hibernate,sqlite,mysql,gradle,maven,npm,yarn,webpack,git,nginx" />
+  
+  # Integrated Development Environments
   <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,vscode,visualstudio,androidstudio,eclipse,unity,vim,sublime,processing,latex" />
-  <br/>
-  <br/>
+  
 <!--   <img src="https://komarev.com/ghpvc/?username=8593k&color=blue" /> -->
-  <br/>
-  <br/>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=8593k&show_icons=true" />
 </p>
 
