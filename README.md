@@ -4,7 +4,13 @@
   <img src="https://www.codewars.com/users/K401M/badges/large" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,python,javascript,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,kotlin,scala,java,python,lua,javascript,html,css,react,nodejs,md" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=spring,ktor,flask,hibernate,sqlite,mysql,gradle,maven,npm,git,nginx" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=idea,clion,pycharm,vscode,visualstudio,eclipse,unity,vim,sublime,processing,latex" />
   <br/>
   <br/>
 <!--   <img src="https://komarev.com/ghpvc/?username=8593k&color=blue" /> -->
